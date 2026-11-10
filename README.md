@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # bmi_final
+=======
+# bmi_calcualatorfinal
+>>>>>>> d51e16d7818e47628b2ee4ed9a90abf2ecc637be
 
 A new Flutter project.
 
